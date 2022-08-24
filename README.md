@@ -9,4 +9,20 @@ When the user clicks on a product there should a page to show details about that
 ![productdetailpage](https://user-images.githubusercontent.com/107112448/186490397-9f7b70bf-f88c-4c8b-9008-484d184de4ff.png)
 ![productdetailpage1](https://user-images.githubusercontent.com/107112448/186490409-1274a543-c281-4ab7-b744-4155c7a14d9f.png)
 
+#  Shopping Cart Screen
+Shopping Cart is the heart of any e-commerce website. We focus on creating a user-friendly shopping cart using React.
+![addtocart](https://user-images.githubusercontent.com/107112448/186492040-fae2899f-9b08-421f-b717-436cfa0dfe23.png)
 
+# Sign In User
+We need to register the user before redirecting them to the checkout. In this part, we will create forms for getting user info and save them in the database.
+![loginpage](https://user-images.githubusercontent.com/107112448/186492367-fa499931-5dca-4e17-917e-781908f94f49.png)
+
+# Manage Products
+Admin should be able to define products and update the count in stock whenever they like. This page is about managing ECommerce products.
+![createproduct](https://user-images.githubusercontent.com/107112448/186492684-3eec9a04-5adb-4071-b4c0-32e3e668688c.png)
+
+# Checkout Wizard
+we implement the checkout wizard including sign in, shipping info, payment method, and place order.
+![shippingaddress](https://user-images.githubusercontent.com/107112448/186493231-3684b885-232c-41ce-9769-ca13132210f8.png)
+![paymentmethod](https://user-images.githubusercontent.com/107112448/186493389-74345ee8-49c8-4758-ba4e-e71224ec508a.png)
+![finalorder](https://user-images.githubusercontent.com/107112448/186493686-3d959c15-0f41-49d8-b6c7-abe14a13124d.png)
