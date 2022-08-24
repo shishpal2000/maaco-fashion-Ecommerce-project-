@@ -4,6 +4,12 @@ This is the home page of e-commerce. It shows a list of products.
 
 ![frontimage](https://user-images.githubusercontent.com/107112448/186491050-99431c7d-2189-417b-a5bc-7abddafd65a4.png)
 
+# Filter Products
+User can search the products with price,rating,categories also apply some filter to  price low to high and high to low.
+
+![filter](https://user-images.githubusercontent.com/107112448/186498679-b9b1bf49-76e2-438b-a4ce-055c9425468f.png)
+
+
 # Product Details
 When the user clicks on a product there should a page to show details about that product. This lesson is all about making an attractive details page.
 ![productdetailpage](https://user-images.githubusercontent.com/107112448/186490397-9f7b70bf-f88c-4c8b-9008-484d184de4ff.png)
