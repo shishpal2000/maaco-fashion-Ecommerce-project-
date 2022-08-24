@@ -9,3 +9,4 @@ When the user clicks on a product there should a page to show details about that
 ![productdetailpage](https://user-images.githubusercontent.com/107112448/186490397-9f7b70bf-f88c-4c8b-9008-484d184de4ff.png)
 ![productdetailpage1](https://user-images.githubusercontent.com/107112448/186490409-1274a543-c281-4ab7-b744-4155c7a14d9f.png)
 
+
