@@ -1,5 +1,17 @@
 # maaco-fashion(Ecommerce-project)
 
+# Project description 
+
+Ecommerce Website
+
+Technologies: ReactJs,redux JavaScript, Express Js,MongoDb,Bootstrap,HTML/CSS.
+
+● Users can buy products, add items to cart, rate products and pay through credit card using paypal API.
+
+● Admin can add, delete and update’s details.
+
+● User can Search product by name, filter by price, categories and reviews.
+
 This is the home page of e-commerce. It shows a list of products.
 
 ![frontimage](https://user-images.githubusercontent.com/107112448/186491050-99431c7d-2189-417b-a5bc-7abddafd65a4.png)
@@ -52,15 +64,4 @@ Admin can only access dashboard,products,orders and Users.
 
 ![userdetail](https://user-images.githubusercontent.com/107112448/186496955-8dd9ba14-6d51-46c7-a104-69fe0c865466.png)
 
-# Project description 
-
-Ecommerce Website
-
-Technologies: ReactJs,redux JavaScript, Express Js,MongoDb,Bootstrap,HTML/CSS.
-
-● Users can buy products, add items to cart, rate products and pay through credit card using paypal API.
-
-● Admin can add, delete and update’s details.
-
-● User can Search product by name, filter by price, categories and reviews.
-
+# Thank You !
