@@ -24,5 +24,9 @@ Admin should be able to define products and update the count in stock whenever t
 # Checkout Wizard
 we implement the checkout wizard including sign in, shipping info, payment method, and place order.
 ![shippingaddress](https://user-images.githubusercontent.com/107112448/186493231-3684b885-232c-41ce-9769-ca13132210f8.png)
+
 ![paymentmethod](https://user-images.githubusercontent.com/107112448/186493389-74345ee8-49c8-4758-ba4e-e71224ec508a.png)
-![finalorder](https://user-images.githubusercontent.com/107112448/186493686-3d959c15-0f41-49d8-b6c7-abe14a13124d.png)
+
+![previeworder](https://user-images.githubusercontent.com/107112448/186494220-e09ea6d7-74df-4449-8d3a-8445b2d6c40a.png)
+
+![finalorder](https://user-images.githubusercontent.com/107112448/186494311-778c6f22-2328-4a2c-81a9-c10827a45658.png)
