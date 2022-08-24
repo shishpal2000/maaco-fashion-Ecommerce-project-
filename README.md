@@ -4,7 +4,7 @@
 
 Ecommerce Website
 
-Technologies: ReactJs,redux JavaScript, Express Js,MongoDb,Bootstrap,HTML/CSS.
+Technologies: ReactJs,redux, JavaScript, Express Js,MongoDb,Bootstrap,HTML/CSS.
 
 ● Users can buy products, add items to cart, rate products and pay through credit card using paypal API.
 
