@@ -1,8 +1,6 @@
 # maaco-fashion(Ecommerce-project)
 
-This is the home page of e-commerce. It shows a list of products.
-
-![filter](https://user-images.githubusercontent.com/107112448/186489461-d8c6fac7-6ddc-43d6-9028-8cbb71144f0b.png)
+This is the home page of e-commerce. It shows a list of products.![filter](https://user-images.githubusercontent.com/107112448/186489461-d8c6fac7-6ddc-43d6-9028-8cbb71144f0b.png)
 
 # Product Details
 When the user clicks on a product there should a page to show details about that product. This lesson is all about making an attractive details page.
