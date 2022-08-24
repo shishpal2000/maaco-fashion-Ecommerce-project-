@@ -30,3 +30,19 @@ we implement the checkout wizard including sign in, shipping info, payment metho
 ![previeworder](https://user-images.githubusercontent.com/107112448/186494220-e09ea6d7-74df-4449-8d3a-8445b2d6c40a.png)
 
 ![finalorder](https://user-images.githubusercontent.com/107112448/186494311-778c6f22-2328-4a2c-81a9-c10827a45658.png)
+
+# Admin access features
+we implement dashboard,products,orders and Users
+
+
+![dashboard](https://user-images.githubusercontent.com/107112448/186496579-372c0ec2-52de-484c-9cb8-863368cc0693.png)
+
+
+![dashboard 1](https://user-images.githubusercontent.com/107112448/186496607-8cfccae8-1d99-4b28-9f5c-7dfddf8cd5e7.png)
+
+
+![createproduct](https://user-images.githubusercontent.com/107112448/186496875-ec1242d9-0c42-4c68-93ee-eeb053e4ef0c.png)
+
+
+![userdetail](https://user-images.githubusercontent.com/107112448/186496955-8dd9ba14-6d51-46c7-a104-69fe0c865466.png)
+
