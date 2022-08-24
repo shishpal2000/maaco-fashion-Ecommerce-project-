@@ -11,24 +11,24 @@ User can search the products with price,rating,categories also apply some filter
 
 
 # Product Details
-When the user clicks on a product there should a page to show details about that product. This lesson is all about making an attractive details page.
+When the user clicks on a product there should a page to show details about that product.
 ![productdetailpage](https://user-images.githubusercontent.com/107112448/186490397-9f7b70bf-f88c-4c8b-9008-484d184de4ff.png)
 ![productdetailpage1](https://user-images.githubusercontent.com/107112448/186490409-1274a543-c281-4ab7-b744-4155c7a14d9f.png)
 
 #  Shopping Cart Screen
-Shopping Cart is the heart of any e-commerce website. We focus on creating a user-friendly shopping cart using React.
+Shopping Cart is the heart of any e-commerce website. i am focus on creating a user-friendly shopping cart using React.
 ![addtocart](https://user-images.githubusercontent.com/107112448/186492040-fae2899f-9b08-421f-b717-436cfa0dfe23.png)
 
 # Sign In User
-We need to register the user before redirecting them to the checkout. In this part, we will create forms for getting user info and save them in the database.
+User need to register before redirecting to the checkout page.
 ![loginpage](https://user-images.githubusercontent.com/107112448/186492367-fa499931-5dca-4e17-917e-781908f94f49.png)
 
 # Manage Products
-Admin should be able to define products and update the count in stock whenever they like. This page is about managing ECommerce products.
+Admin should be able to define products and update the count in stock whenever they like. 
 ![createproduct](https://user-images.githubusercontent.com/107112448/186492684-3eec9a04-5adb-4071-b4c0-32e3e668688c.png)
 
 # Checkout Wizard
-we implement the checkout wizard including sign in, shipping info, payment method, and place order.
+I implement the checkout wizard including sign in, shipping info, payment method, and place order.
 ![shippingaddress](https://user-images.githubusercontent.com/107112448/186493231-3684b885-232c-41ce-9769-ca13132210f8.png)
 
 ![paymentmethod](https://user-images.githubusercontent.com/107112448/186493389-74345ee8-49c8-4758-ba4e-e71224ec508a.png)
@@ -38,7 +38,7 @@ we implement the checkout wizard including sign in, shipping info, payment metho
 ![finalorder](https://user-images.githubusercontent.com/107112448/186494311-778c6f22-2328-4a2c-81a9-c10827a45658.png)
 
 # Admin access features
-we implement dashboard,products,orders and Users
+Admin can only access dashboard,products,orders and Users.
 
 
 ![dashboard](https://user-images.githubusercontent.com/107112448/186496579-372c0ec2-52de-484c-9cb8-863368cc0693.png)
@@ -55,8 +55,12 @@ we implement dashboard,products,orders and Users
 # Project description 
 
 Ecommerce Website
-Technologies: ReactJs,redux JavaScript, Express Js,MongoDb,Bootstrap,HTML/CSS
+
+Technologies: ReactJs,redux JavaScript, Express Js,MongoDb,Bootstrap,HTML/CSS.
+
 ● Users can buy products, add items to cart, rate products and pay through credit card using paypal API.
+
 ● Admin can add, delete and update’s details.
+
 ● User can Search product by name, filter by price, categories and reviews.
 
