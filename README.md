@@ -66,3 +66,4 @@ Admin can only access dashboard,products,orders and Users.
 ![userdetail](https://user-images.githubusercontent.com/107112448/186496955-8dd9ba14-6d51-46c7-a104-69fe0c865466.png)
 
 # Thank You !
+
