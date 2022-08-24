@@ -52,3 +52,10 @@ we implement dashboard,products,orders and Users
 
 ![userdetail](https://user-images.githubusercontent.com/107112448/186496955-8dd9ba14-6d51-46c7-a104-69fe0c865466.png)
 
+# Project description 
+
+Ecommerce Website
+Technologies: ReactJs,redux JavaScript, Express Js,MongoDb,Bootstrap,HTML/CSS
+● Users can buy products, add items to cart, rate products and pay through credit card using paypal API.
+● Admin can add, delete and update’s details.
+● User can Search product by name, filter by price, categories and reviews.
