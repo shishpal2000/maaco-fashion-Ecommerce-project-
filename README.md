@@ -12,7 +12,7 @@ Technologies: ReactJs,redux, JavaScript, Express Js,MongoDb,Bootstrap,HTML/CSS.
 
 ● User can Search product by name, filter by price, categories and reviews.
 
-● It's a team project.
+● It's a personal project.
 
 # Main page
 This is the home page of e-commerce. It shows a list of products.
